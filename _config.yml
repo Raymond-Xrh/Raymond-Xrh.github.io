@@ -83,7 +83,7 @@ author:
   name             : "Raymond Xia"
   avatar           : "profile.png"
   bio              : "A Dude who rants on his website"
-  location         : "Berkeley, CA"
+  location         : # "Berkeley, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
