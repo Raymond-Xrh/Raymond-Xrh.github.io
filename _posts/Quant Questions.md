@@ -6,6 +6,7 @@ tags:
   - Quant
   - Interview
 ---
+1 question every day challenge: Day 1
 
 Dice
 ======
