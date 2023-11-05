@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a lazy thinker captured by some vague questions on self and the world. Check out my blogs. Feel free to reach out through raymond.xia11@outlook.com.
+I am a lazy grinder who thinks from time to time. Check out my blogs. Feel free to reach out for discussion/debate through raymond.xia11@outlook.com.
