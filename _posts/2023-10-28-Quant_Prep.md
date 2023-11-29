@@ -1,7 +1,7 @@
 ---
 title: 'Quant Prep'
-date: 2023-10-28
-permalink: /posts/2023/10/blog-2/
+date: 2023-11-29
+permalink: /posts/2023/11/blog-2/
 tags:
   - Quant
   - Interview
@@ -20,18 +20,20 @@ DS
 2. Give you a dataset, predict dependent variable
 
 EDA - Feature engineering - modelding, repeat
-
+Practice: Kaggle & datathon? 
 
 Programming & Algorithm
 ======
 Go through: [grind75](https://www.techinterviewhandbook.org/grind75)
 Check out HRT, Jump, Headlands questions
+write and explain code
 
 Game Theory
 ======
 
 Probability
 ======
+How to be faster? Drill down the intuition
 
 Dice
 ------
