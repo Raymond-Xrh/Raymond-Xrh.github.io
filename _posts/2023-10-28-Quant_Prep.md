@@ -6,12 +6,10 @@ tags:
   - Quant
   - Interview
 ---
-Progress so far: 1
 
 ML
 ======
 Everything about linear regression
-know
 
 DS
 ======
