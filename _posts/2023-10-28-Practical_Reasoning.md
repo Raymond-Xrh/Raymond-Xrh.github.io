@@ -1,9 +1,9 @@
 ---
-title: 'Practical Reasoning'
+title: 'Huberman Lab Summary: Dopamine Mindset & Drive'
 date: 2023-10-28
-permalink: /posts/2023/10/Practical-Reasoning/
+permalink: /posts/2023/10/Dopamine/
 tags:
-  - Logic
+  - Psychology
 ---
 
-To what extent is logical reasoning useful? Math and statistics trains enough of quantitative reasoning. But how about qualitative reasoning? 
+
