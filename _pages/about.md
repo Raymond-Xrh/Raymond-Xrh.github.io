@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Thinker
+Hello! I'm Raymond. Welcome to my space where I curate and share the ideas that resonate with me deeply.
