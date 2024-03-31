@@ -1,5 +1,5 @@
 ---
-title: 'Leveraged Looans'
+title: 'Leveraged Loans'
 date: 2022-1-19
 permalink: /posts/2024/1/loans/
 tags:
