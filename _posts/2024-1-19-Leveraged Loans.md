@@ -1,6 +1,6 @@
 ---
-title: 'Quant Prep'
-date: 2023-11-29
+title: 'Leveraged Looans'
+date: 2022-1-19
 permalink: /posts/2024/1/loans/
 tags:
   - News
