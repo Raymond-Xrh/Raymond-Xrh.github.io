@@ -1,7 +1,7 @@
 ---
 title: 'Citi Exiting Muni'
 date: 2024-1-21
-permalink: /posts/2024/1/citi-muni/
+permalink: /posts/2024/1/citi/
 tags:
   - news
 ---
