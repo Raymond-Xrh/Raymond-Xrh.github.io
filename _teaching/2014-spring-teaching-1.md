@@ -1,8 +1,8 @@
 ---
 title: "The Power of Habit"
-collection: teaching
+collection: review
 type: "Undergraduate course"
-permalink: /book/the-power-of-habit
+permalink: /review/the-power-of-habit
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
