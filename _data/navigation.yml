@@ -6,13 +6,13 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Book Review"
-    url: /review/    
+  #- title: "Book Review"
+   # url: /review/    
     
-  - title: "Trading Projects"
-    url: /portfolio/
+ # - title: "Trading Projects"
+ #   url: /portfolio/
         
-  - title: "Blog"
+  - title: "Blog & Trading"
     url: /year-archive/
     
   #- title: "CV"
