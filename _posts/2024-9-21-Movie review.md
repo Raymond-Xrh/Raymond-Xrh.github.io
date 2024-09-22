@@ -1,12 +1,12 @@
 ---
-title: 'Movie Reviews 1'
+title: 'Movie Review'
 date: 2024-9-21
 permalink: /posts/2024/9/movie/
 tags:
   - Movie Reviews
 ---
 
-Recently I've watched a lot of movies at night, to break me away from everything I care about during the day.  
+Recently I've watched a lot of movies at night, to break way from practical matters my mind engrosses on.  
 
 The Best Offer:
 ===
