@@ -1,11 +1,24 @@
 ---
 title: 'Movie Review'
-date: 2024-11-16
+date: 2024-11-20
 permalink: /posts/2024/11/movie/
 tags:
   - Movie Reviews
 ---
 Who doesn't love movies?
+
+
+The Great Gatsby:
+===
+Rating: 3.8/5
+
+What could be worse than losing someone you love? Losing them all over again. The most moving part of the movie for me was when Daisy and Gatsby danced in the grand mansion, reminiscing about the old days while "Will You Still Love Me When I’m No Longer Young and Beautiful" played in the background. It perfectly fits a melancholy night of reflection.
+
+For me, the story boils down to this: when you feel like your partner isn’t meeting your expectations, ask yourself if you’re projecting your own standards onto them and ignoring their true needs. TGG portrays the tragedy of forgetting this principle. Of course, it’s easier said than done, because part of romantic attraction often comes from those successful projections.
+
+I wasn’t particularly impressed right after finishing the movie, but thinking about it now, the lesson alone makes it worthwhile. Maybe I should explore more romance movies?
+
+
 
 Arcane 2:
 ===
