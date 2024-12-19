@@ -1,7 +1,7 @@
 ---
-title: 'Collecting the Gems'
-date: 2024-12-3
-permalink: /posts/2024/12/gem/
+title: 'Daily Reflection'
+date: 2024-12-1
+permalink: /posts/2024/12/reflection/
 
 ---
 What I read, think, and reflect today.
