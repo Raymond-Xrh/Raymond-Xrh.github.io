@@ -6,9 +6,13 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
-2024.12.19
+2024.12.21
 ===
-I'm taking 2 days off
+Task: virtu in 1h.
+
+2024.12.19 & 20
+===
+2 days off
 
 O feedback:
 Elaborate on forward-looking questions: what struggles I might face in the next internship, what I might not enjoy, discretionary vs systematic. Don't overly rely on past experiences reason about future. Technically I am naturally methodical and need to be more intuitive. 
