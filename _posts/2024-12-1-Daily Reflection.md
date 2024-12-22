@@ -8,7 +8,9 @@ What I read, think, and reflect today.
 
 2024.12.21
 ===
-Task: virtu in 1h.
+Task: practice 10 virtu question in 1h; finished 7/10 questions by the end of the day, with 3 harder questions left.
+
+I tend to procastinate on more complicated questions. Incorporate this fact in tomorrow's plan
 
 2024.12.19 & 20
 ===
