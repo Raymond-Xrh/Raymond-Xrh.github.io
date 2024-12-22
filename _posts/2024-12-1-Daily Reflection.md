@@ -6,11 +6,17 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2024.12.22
+===
+Todo: do 3 problems; arrange driving license tests
+
 2024.12.21
 ===
-Task: practice 10 virtu question in 1h; finished 7/10 questions by the end of the day, with 3 harder questions left.
+Todo: practice 10 virtu question in 1h 
 
-I tend to procastinate on more complicated questions. Incorporate this fact in tomorrow's plan
+Result: finished 7/10 questions by the end of the day, with 3 harder questions left.
+
+Reflect: I tend to procastinate on more complicated questions. Incorporate this fact in tomorrow's plan
 
 2024.12.19 & 20
 ===
