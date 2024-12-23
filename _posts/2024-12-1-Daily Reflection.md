@@ -6,9 +6,13 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2024.12.23
+===
+Todo: go through DL handbook & figure out question banks; figure out questions about 1. QR fulltime recruit priorities 2. internship prep 3. asia vs europe vs us markets for grad
+
 2024.12.22
 ===
-Todo: do 3 problems; arrange driving license tests
+Todo: 3 leftover problems; arrange driving license tests
 
 Result: finished all
 
