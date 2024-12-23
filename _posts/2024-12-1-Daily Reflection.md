@@ -10,9 +10,13 @@ What I read, think, and reflect today.
 ===
 Todo: do 3 problems; arrange driving license tests
 
+Result: finished all
+
 Read "Creative Thinking” by Claude Shannon. 
 
 Reflect on V interview. Practice independent problem solving while talking to a person
+
+I realized my ego prevents me from taking a critical but right feedback. Embrace that I could be stupid and wrong. 
 
 2024.12.21
 ===
