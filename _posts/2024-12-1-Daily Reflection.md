@@ -10,6 +10,10 @@ What I read, think, and reflect today.
 ===
 Todo: do 3 problems; arrange driving license tests
 
+Read "Creative Thinking” by Claude Shannon. 
+
+Reflect on V interview. Practice independent problem solving while talking to a person
+
 2024.12.21
 ===
 Todo: practice 10 virtu question in 1h 
