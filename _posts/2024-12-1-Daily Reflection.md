@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2024.12.24
+===
+Todo: Go through DL handbook & figure out question banks
+
 2024.12.23
 ===
 Todo: go through DL handbook & figure out question banks; figure out questions about 1. QR fulltime recruit priorities 2. internship prep 3. asia vs europe vs us markets for grad
@@ -20,7 +24,7 @@ Result: finished all
 
 Read "Creative Thinking” by Claude Shannon. 
 
-Reflect on V interview. Practice independent problem solving while talking to a person
+Reflection on V interview: Practice independent problem solving while talking to a person
 
 I realized my ego prevents me from taking a critical but right feedback. Embrace that I could be stupid and wrong. 
 
