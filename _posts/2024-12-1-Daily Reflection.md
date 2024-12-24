@@ -10,6 +10,8 @@ What I read, think, and reflect today.
 ===
 Todo: go through DL handbook & figure out question banks; figure out questions about 1. QR fulltime recruit priorities 2. internship prep 3. asia vs europe vs us markets for grad
 
+Result: didn't do shit too distracted from the morning. Instead just sent some linkedin invites.
+
 2024.12.22
 ===
 Todo: 3 leftover problems; arrange driving license tests
