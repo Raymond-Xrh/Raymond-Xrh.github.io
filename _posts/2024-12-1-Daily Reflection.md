@@ -10,6 +10,10 @@ What I read, think, and reflect today.
 ===
 Todo: Go through DL handbook & figure out question banks
 
+Result: figured out that question banks are on app store. Didn't finish DL handbook. 
+
+Reflect: I took initiative to host dinner & game night and absolutely enjoyed it. Learned from Laurel a good ice-breaking tip ———— guessing quality. 
+
 2024.12.23
 ===
 Todo: go through DL handbook & figure out question banks; figure out questions about 1. QR fulltime recruit priorities 2. internship prep 3. asia vs europe vs us markets for grad
