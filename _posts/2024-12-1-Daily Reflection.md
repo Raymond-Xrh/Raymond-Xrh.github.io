@@ -12,7 +12,7 @@ Todo: Go through DL handbook & figure out question banks
 
 Result: figured out that question banks are on app store. Didn't finish DL handbook. 
 
-Reflect: I took initiative to host dinner & game night and absolutely enjoyed it. Learned from Laurel a good ice-breaking tip ———— guessing quality. 
+Reflect: I took an initiative to host dinner & game night and absolutely enjoyed it. I learned from Laurel a good ice-breaking tip ———— guessing a descriptive word from group members. Need to become a better cook and icebreaker.
 
 2024.12.23
 ===
