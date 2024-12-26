@@ -6,6 +6,14 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2024.12.26
+=== 
+Todo: 100 GL questions; go through handbooks; send out linkedin connects
+
+2024.12.25
+===
+Didn't set up a todo instead just let it flow. 
+
 2024.12.24
 ===
 Todo: Go through DL handbook & figure out question banks
