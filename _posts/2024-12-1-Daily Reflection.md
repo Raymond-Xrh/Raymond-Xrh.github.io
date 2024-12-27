@@ -8,7 +8,7 @@ What I read, think, and reflect today.
 
 2024.12.27
 === 
-Todo: Kaggle start; connect on xhs snt; 30 more questions
+Todo: Kaggle start; connect on xhs snt; 30 more questions; deal with renting and vpn stuff
 
 2024.12.26
 === 
