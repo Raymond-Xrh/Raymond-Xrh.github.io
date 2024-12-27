@@ -6,9 +6,15 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2024.12.27
+=== 
+Todo: Kaggle start; connect on xhs snt; 30 more questions
+
 2024.12.26
 === 
 Todo: 100 GL questions; go through handbooks; send out linkedin connects
+
+Result: sent linkedin connects; did 30/100 questions and didn't bother to go through the handbooks.
 
 2024.12.25
 ===
