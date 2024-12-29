@@ -6,9 +6,20 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2024.12.29
+=== 
+Todo: Kaggle baseline model; connect on xhs snt; 30 more questions; deal with renting and vpn stuff
+
+
+2024.12.28
+=== 
+No planning and no work done. 
+
 2024.12.27
 === 
 Todo: Kaggle start; connect on xhs snt; 30 more questions; deal with renting and vpn stuff
+
+Result: spent much time on Kaggle didn't do other things
 
 2024.12.26
 === 
