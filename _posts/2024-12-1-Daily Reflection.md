@@ -12,7 +12,7 @@ Todo: Kaggle baseline model; 30 more DL questions; deal with renting and vpn stu
 
 Result: Pushed Kaggle to data processing; didn't bother to do DL questions; solved vpn and progressed on renting.
 
-I read Four Thousand Week. Seems like a decent book.
+I read Four Thousand Week; seems like a decent book.
 
 2024.12.28
 === 
