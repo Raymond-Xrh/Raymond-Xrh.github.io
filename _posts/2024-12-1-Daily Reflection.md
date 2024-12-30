@@ -8,8 +8,11 @@ What I read, think, and reflect today.
 
 2024.12.29
 === 
-Todo: Kaggle baseline model; connect on xhs snt; 30 more questions; deal with renting and vpn stuff
+Todo: Kaggle baseline model; 30 more DL questions; deal with renting and vpn stuff
 
+Result: Pushed Kaggle to data processing; didn't bother to do DL questions; solved vpn and progressed on renting.
+
+I read Four Thousand Week. Seems like a decent book.
 
 2024.12.28
 === 
