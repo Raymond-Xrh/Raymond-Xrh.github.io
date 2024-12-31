@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2024.12.30 - 2025.1.2
+===
+Trip to LA with Eric and Laurel; Have fun:)
+
 2024.12.29
 === 
 Todo: Kaggle baseline model; 30 more DL questions; deal with renting and vpn stuff
