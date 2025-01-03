@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.3
+===
+Todo: Kaggle preprocessing/backtesting; housing; split-wise
+
 2024.12.30 - 2025.1.2
 ===
 Trip to LA with Eric and Laurel; Have fun:)
