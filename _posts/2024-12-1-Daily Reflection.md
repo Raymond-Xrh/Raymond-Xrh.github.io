@@ -10,6 +10,8 @@ What I read, think, and reflect today.
 ===
 Todo: Kaggle preprocessing/backtesting; housing; split-wise
 
+Reflect: play more games involving verbal bid-ask; I still fumble on them
+
 2024.12.30 - 2025.1.2
 ===
 Trip to LA with Eric and Laurel; Have fun:)
