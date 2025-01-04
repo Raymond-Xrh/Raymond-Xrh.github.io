@@ -10,7 +10,7 @@ What I read, think, and reflect today.
 ===
 Todo: Kaggle preprocessing/backtesting; housing; split-wise
 
-Reflect: play more games involving verbal bid-ask; I still fumble on them
+Reflect: play more games as a market maker; I still fumble on bid/ask and buy/sell
 
 2024.12.30 - 2025.1.2
 ===
