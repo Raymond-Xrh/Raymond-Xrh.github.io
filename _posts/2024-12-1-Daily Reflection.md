@@ -6,10 +6,16 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.4
+===
+Todo: kaggle data-processing; read the inner game of tennis
+
+Result: didn't figure it out; distracted by xgboost. 
+
+Reflect: focus on the granular component; end with what I start on. 
+
 2025.1.3
 ===
-Todo: Kaggle preprocessing/backtesting; housing; split-wise
-
 Reflect: play more games as a market maker; I still fumble on bid/ask and buy/sell
 
 2024.12.30 - 2025.1.2
