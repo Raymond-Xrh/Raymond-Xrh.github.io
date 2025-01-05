@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.5
+===
+Todo: submit model from colab to kaggle; linkedin email; arrange housing tour
+
 2025.1.4
 ===
 Todo: kaggle data-processing; read the inner game of tennis
