@@ -10,6 +10,8 @@ What I read, think, and reflect today.
 ===
 Todo: submit model from colab to kaggle; linkedin email; arrange housing tour
 
+Result: model upload done; didn't send linkedin email or housing tour
+
 2025.1.4
 ===
 Todo: kaggle data-processing; read the inner game of tennis
