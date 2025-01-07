@@ -10,6 +10,14 @@ What I read, think, and reflect today.
 ===
 Todo: understand xgb and best model; read market news (asia equity, china single stocks, us macro, JPY, japan rate hike, taiwan SBL); schedule housing tour
 
+**News:**
+
+China: Caixin manufacturing PMI fell to 50.5 in Dec due to declining export demand; CSI300 dipped to 3768; usd/cny at 7.32; Alibaba sell off Sun Art; 
+
+US: Semiconductor rally (Nvidia, TSMC, Arm) due to MSFT announcing $80b capex on GenAI. 
+
+Japan: 157
+
 2025.1.5
 ===
 Todo: submit model from colab to kaggle; linkedin email; arrange housing tour
