@@ -10,6 +10,8 @@ What I read, think, and reflect today.
 ===
 Todo: improving lagging feature✅; arrange gap issues✖️
 
+Reflect: Count the number of push throughs when you feel like you can't focus. 
+
 2025.1.6
 ===
 Todo: understand xgb and best model ✅; read market news (asia equity, china single stocks, us macro, JPY, japan rate hike, taiwan SBL)✅; schedule housing tour✅
