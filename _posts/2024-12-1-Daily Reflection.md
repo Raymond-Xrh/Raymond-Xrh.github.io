@@ -10,7 +10,7 @@ What I read, think, and reflect today.
 ===
 Todo: improving lagging feature✅; arrange gap issues✖️
 
-Reflect: Count the number of push throughs when you feel like you can't focus. 
+Reflect: Count the number of times you push through when you feel like you can't focus. It's in those moments that you truly feel the strength of your will.
 
 2025.1.6
 ===
