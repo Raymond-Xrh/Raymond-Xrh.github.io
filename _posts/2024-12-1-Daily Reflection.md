@@ -8,7 +8,7 @@ What I read, think, and reflect today.
 
 2025.1.7
 ===
-Todo: improving lagging feature✅; arrange gap issues
+Todo: improving lagging feature✅; arrange gap issues✖️
 
 2025.1.6
 ===
