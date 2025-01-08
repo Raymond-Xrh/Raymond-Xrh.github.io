@@ -13,7 +13,7 @@ Todo: Add denotation, nn and lagging features in inference stage; add ensemble a
 Notes on Option Vol and Pricing:
 
 - Notional value (index) = cash price * point value
-- Distinction between stock-type settlement and futures-type settlement: variation; stock-type pnl unrealized until liquidated
+- Distinction between stock-type settlement and futures-type settlement: futures-type pays variation; stock-type pnl unrealized until liquidated
 - In NA, all options are stock-type settled, even with futures underlying; when using options to hedge futures position still need to pay futures variation.
 
 2025.1.7
