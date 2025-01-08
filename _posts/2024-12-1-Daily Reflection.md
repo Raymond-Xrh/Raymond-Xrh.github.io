@@ -8,7 +8,7 @@ What I read, think, and reflect today.
 
 2025.1.8
 ===
-Todo: Add denotation, nn and lagging features in inference stage; add ensemble and catboost; verify gap logistics; arrange housing tour.
+Todo: Add denotation, nn and lagging features in inference stage; add ensemble and catboost; verify gap logistics✅; arrange housing tour✅.
 
 2025.1.7
 ===
