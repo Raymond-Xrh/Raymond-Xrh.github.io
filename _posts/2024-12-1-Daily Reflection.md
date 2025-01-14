@@ -6,6 +6,15 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.13 - 2025.1.14
+===
+Adjusting to new work environment; settling down on gym, tennis and other logistics.
+
+Reflections:
+
+- Ask good questions: role => cross-desk/cross-region colab; how service differentiates; under high rates environment. For md: 5y plan, china market slow down, career progression.
+- Very tired afterwork. Not sure if my concentration is hurt. Managing energy.
+
 2025.1.9 - 2025.1.12
 ===
 Packing up for hk.
