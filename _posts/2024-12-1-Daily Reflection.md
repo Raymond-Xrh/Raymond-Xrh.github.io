@@ -6,6 +6,14 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.15
+===
+To figure out:
+
+- Concepts: ADR, IOI institution indication, agency vs principal distinction, block and basket
+- Ask principal traders about props
+- Why for LO ST talk to traders and HF talk to PM
+
 2025.1.13 - 2025.1.14
 ===
 Adjusting to new work environment; settling down on gym, tennis and other logistics.
