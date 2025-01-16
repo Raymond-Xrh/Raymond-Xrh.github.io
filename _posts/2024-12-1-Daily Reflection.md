@@ -14,6 +14,7 @@ To figure out:
 - Concepts: ADR, IOI institution indication, agency vs principal distinction, block and basket
 - Ask principal traders about props
 - Why for LO ST talk to traders and HF talk to PM
+- How to chill during work
 
 2025.1.13 - 2025.1.14
 ===
