@@ -6,6 +6,15 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.16
+===
+To figure out:
+
+- how mm work with brokers; matching rules; centralized books; risk trading vs agency trading; dark pools
+- Useful resource: patrick boyle
+- reverse repo rate
+
+
 2025.1.15
 ===
 To figure out:
