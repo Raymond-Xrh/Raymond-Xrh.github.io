@@ -10,6 +10,7 @@ What I read, think, and reflect today.
 ===
 To figure out:
 
+- Leetcode python; options
 - Concepts: ADR, IOI institution indication, agency vs principal distinction, block and basket
 - Ask principal traders about props
 - Why for LO ST talk to traders and HF talk to PM
