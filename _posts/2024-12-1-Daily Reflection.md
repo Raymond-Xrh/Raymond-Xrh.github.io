@@ -6,6 +6,14 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.17
+===
+- Network: start with team => adjacent team, junior => senior
+- Network: take initiative on cross-team events, e.g. group chat for meeting
+- To figure out: how to interpret 108'185 (check out CME bond and corn); duration as time where reinvestment pnl and bond price breakeven; tick size tick value
+- During onboarding, plan ahead next morning logistics. Ask at least 4h advance
+- Promise late, deliver early
+
 2025.1.16
 ===
 To figure out:
