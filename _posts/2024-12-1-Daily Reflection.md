@@ -6,11 +6,26 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.19
+===
+Prepare for tomorrow and wrap up leftover questions from this week
+
+- Futures price = Spot + Carry/Cost of holding(repo rate +/- storage cost/yield)
+- Point value = par/basis. E.g. 10-Year T-note futures is quoted on points with par($100,000) on the basis of 100 points => each point = $1000. Alternatively, interpret quote as a percentage fraction of par.
+- E.g. For T-note, 108'135 = 108% * 100,000 + 13.5/32 * 1000 = 108000 + 13.5 * 31.25 = $108421.875; for corn futures, 485'6 = $ 4.85 * 5000 + 6/8 * 50 
+- Swaps: IBOR swaps (fixed vs floating IBOR rate), OIS swaps (fixed vs floating daily fixed overnight rate), Basis swaps (floating vs floating), Cross currency swaps (swapping interest payments in two different currencies)
+- Swap prices are quoted in fixed rate
+
+
+2025.1.18
+===
+Rest day; walked down Wan Chai
+
 2025.1.17
 ===
 - Network: start with team => adjacent team, junior => senior
 - Network: take initiative on cross-team events, e.g. group chat for meeting
-- To figure out: how to interpret 108'185 (check out CME bond and corn); duration as time where reinvestment pnl and bond price breakeven; tick size tick value
+- To-do: how to interpret 108'185 (check out CME bond and corn)✅; duration as time where reinvestment pnl and bond price breakeven; tick size tick value✅
 - During onboarding, plan ahead next morning logistics. Ask at least 4h advance
 - Promise late, deliver early
 
