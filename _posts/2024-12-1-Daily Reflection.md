@@ -31,7 +31,7 @@ Rest day; walked down Wan Chai
 
 2025.1.16
 ===
-To figure out:
+To-do:
 
 - how mm work with brokers; matching rules; centralized books; risk trading vs agency trading; dark pools
 - Useful resource: patrick boyle
