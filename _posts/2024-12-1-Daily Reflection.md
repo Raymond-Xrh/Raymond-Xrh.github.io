@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38f470f6-2d19-4f49-b07f-8167f90398cb)![image](https://github.com/user-attachments/assets/66f02501-e2a3-402a-942c-f2cc2f2e522c)---
+---
 title: 'Daily Reflection'
 date: 2024-12-1
 permalink: /posts/2024/12/reflection/
