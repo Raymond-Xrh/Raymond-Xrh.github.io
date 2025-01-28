@@ -1,10 +1,34 @@
----
+![image](https://github.com/user-attachments/assets/38f470f6-2d19-4f49-b07f-8167f90398cb)![image](https://github.com/user-attachments/assets/66f02501-e2a3-402a-942c-f2cc2f2e522c)---
 title: 'Daily Reflection'
 date: 2024-12-1
 permalink: /posts/2024/12/reflection/
 
 ---
 What I read, think, and reflect today.
+
+2025.1.20 – 2025.1.28
+===
+First week on the desk. I’ve been trying to allocate time for work, sports, music, and sleep, but I’m barely managing to keep up.
+
+Action item:
+-	Optimize schedule for >8h of sleep
+-	Reserve time for daily reflection and prepping FT recruitment
+
+**Adaptation**
+This week, my focus has been on proactive outreach and providing emotional value during conversations. My goal is to stop overthinking before coming up to juniors/seniors, and ensure every chat ends with a genuine compliment. This small habit builds connections and leaves lasting impressions.
+
+**Appreciating the Internship**
+I genuinely appreciate the internship: I get paid to ask questions, understand how business works, and do a bit of work. Let’s fully enjoy my privilege to ask any question to anyone before I become a full-time. Understanding financing business also teaches me a great lesson on utilizing every asset you have. Don’t sit on costly inventories; swap them out to exchange for better return. I have the opportunity to witness how a great business works from the inside; don’t let it slip.
+
+
+**Preferences on hours & pace**
+I function the best on an 8 to 6, 50h/wk job. For any additional work hour, I would have to sacrifice either workout or sleep, which is probably not sustainable. And I need free time to think outside the routine: side business I can build, think about different opportunities, etc. I also notice that Fast-paced/short feedback-loop job might harm attention span. I’m less capable of doing deep research/read length math proofs after dealing with pop-up messages so frequently. I’m naturally a shorter attention span person and have been trying to expand my attention span through deliberate practice. Would I prefer to see myself as a trader/researcher onwards.
+
+**Action over Words**
+Reflection is only as valuable as the actions it inspires. It’s easy to write lengthy articles but far harder to consistently adapt. True growth requires cycles of trial, error, and reinforcement to materialize.
+
+This internship has already taught me more in a week than six months of school. Why? 1. I am more proactively adapting when working around people. 2. I never did a real internship before. I suspect that most value of experiences are extracted from initial exposure, with diminishing margin. The same applies to knowledge. Comparing myself to my hs classmates, we have roughly the same intelligence, somewhat different characters, but wildly different experiences. The key is to proactively seek experiences with high incremental margin, throw myself in new experiences, and let it shape me.
+
 
 2025.1.19
 ===
