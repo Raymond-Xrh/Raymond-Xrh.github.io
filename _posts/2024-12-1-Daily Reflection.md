@@ -6,6 +6,12 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.29
+===
+Most successful analytical strategies are only going to give you a small advantage. It's important to stick to the right strategy. 
+
+We all want passive income. From financing perspective, generating passive income is about identifying valuable assets and lend out. 
+
 2025.1.20 – 2025.1.28
 ===
 First week on the desk. I’ve been trying to allocate time for work, sports, music, and sleep, but I’m barely managing to keep up.
