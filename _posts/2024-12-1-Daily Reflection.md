@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.1.30-2.1
+===
+Stock trader bets on direction; options trader bets on direction and speed.
+
 2025.1.29
 ===
 Most successful analytical strategies are only going to give you a small advantage. It's important to stick to the right strategy. 
