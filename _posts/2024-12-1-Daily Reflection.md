@@ -12,6 +12,8 @@ It is non-trivial that a normal distribution, with infinite information, can be 
 
 Can you do futures arbitrage on options with mispriced implied forward price?
 
+I have loads of free time during the day. Schedule chats, work, or read ESL/options when free.  
+
 2025.1.30-2.1
 ===
 Option Vol & P Chap 5: 
