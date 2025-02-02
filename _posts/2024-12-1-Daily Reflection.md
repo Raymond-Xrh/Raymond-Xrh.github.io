@@ -6,9 +6,19 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.2.2
+===
+It is non-trivial that a normal distribution, with infinite information, can be characterized by 2 statistics: mean and var. This is because the PDF that defines a distribution only requires these two inputs. More generally, to capture infinity, we impose a stucture/function/rules. 
+
 2025.1.30-2.1
 ===
-Stock trader bets on direction; options trader bets on direction and speed.
+Option Vol & P Chap 5: 
+- Stock trader bets on direction; options trader bets on direction and speed.
+- For Euro options, only forward price matters for pricing
+
+ESL
+- Not all errors are equal: for spam problem filtering out good emails is less desirable.
+- 
 
 2025.1.29
 ===
