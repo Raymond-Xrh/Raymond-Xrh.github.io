@@ -10,6 +10,8 @@ What I read, think, and reflect today.
 ===
 It is non-trivial that a normal distribution, with infinite information, can be characterized by 2 statistics: mean and var. This is because the PDF that defines a distribution only requires these two inputs. More generally, to capture infinity, we impose a stucture/function/rules. 
 
+Can you do futures arbitrage on options with mispriced implied forward price?
+
 2025.1.30-2.1
 ===
 Option Vol & P Chap 5: 
