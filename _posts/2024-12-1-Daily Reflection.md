@@ -8,7 +8,7 @@ What I read, think, and reflect today.
 
 2025.2.3
 ===
-Feel kinda of stuck during the work. Need to figure out how to do my own stuff. 
+Feel kinda of stuck in the work need to figure out how make time for personal study. Good job making music and not scrolling phone tonight.
 
 2025.2.2
 ===
