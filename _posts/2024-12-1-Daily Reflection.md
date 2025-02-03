@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.2.3
+===
+Feel kinda of stuck during the work. Need to figure out how to do my own stuff. 
+
 2025.2.2
 ===
 It is non-trivial that a normal distribution, with infinite information, can be characterized by 2 statistics: mean and var. This is because the PDF that defines a distribution only requires these two inputs. More generally, to capture infinity, we impose a stucture/function/rules. 
