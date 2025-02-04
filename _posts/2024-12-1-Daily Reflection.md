@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.2.4
+===
+Find time to study more during work. I am not sure if a work requires me to have literally only 1.5h free time outside work + workout is right for me. Or is it an inevitable cost...?
+
 2025.2.3
 ===
 Feel kinda of stuck in the work need to figure out how make time for personal study. Good job making music and not scrolling phone tonight.
