@@ -6,6 +6,14 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.2.6
+===
+I want initiative/ownership the most when I got assigned task.
+
+2025.2.5
+===
+Bad day. But I manage to suck it up.
+
 2025.2.4
 ===
 Find time to study more during work. I am not sure if a work requires me to have literally only 1.5h free time outside work + workout is right for me. Or is it an inevitable cost...?
