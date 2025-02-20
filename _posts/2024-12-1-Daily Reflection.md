@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.2.20
+===
+I accidentally did yoga today and it feels awesome. It easily brings me into meditation and reading mode.
+
 2025.2.16
 ===
 Started to reread Principles by Ray Dalio. Thinking about 3 questions: what's my goal; what's the reality; how do I get closer to my goal based on reality
