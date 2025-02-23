@@ -6,6 +6,13 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.2.23
+===
+How to handle stress:
+- Physiologic Sigh: Double inhale + long exhale
+- Eye Dilation: see the panorama
+- 
+
 2025.2.20
 ===
 I accidentally did yoga today and it feels awesome. It easily brings me into meditation and reading mode.
