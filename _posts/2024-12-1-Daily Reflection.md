@@ -8,10 +8,17 @@ What I read, think, and reflect today.
 
 2025.2.23
 ===
+The stress handling methods work pretty well.
+
+2 work/communication habits I need to work on:
+- When I made a stupid mistake and being asked by senior worker, I should say "sorry I forgot it. I will make sure it won't happen" rather than trying to deny it.
+- When I don't want to work on a messy project anymore and others ask me how the boss say about it, I should say "Not sure he didn't clearly state it. I will follow up on this." rather than misinterpret as "I think he might now want to proceed."
+
+2025.2.23
+===
 How to handle stress:
 - Physiologic Sigh: Double inhale + long exhale
 - Eye Dilation: see the panorama
-- 
 
 2025.2.20
 ===
