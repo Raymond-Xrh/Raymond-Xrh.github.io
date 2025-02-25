@@ -6,6 +6,14 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.2.25
+===
+Instead of asking questions, give my best guess.
+
+Don't worry about good image, worry about achieving your goals.
+
+Don't get pissed off by others' bad attitude embedded in criticism. Yes this is not the optimal criticism for you. But the world doesn't revolve around me. If they can not control their emotion and you can't change them, the best way is to ignore the emotion and reflect on the content.
+
 2025.2.23
 ===
 The stress handling methods work pretty well.
