@@ -6,6 +6,10 @@ permalink: /posts/2024/12/reflection/
 ---
 What I read, think, and reflect today.
 
+2025.3.1
+===
+Plasticity = alertness + focus (visual focus 90s). You will feel agitated 
+
 2025.2.28
 ===
 practice NSDR after learning; neural plasticity occurs when you are focused
