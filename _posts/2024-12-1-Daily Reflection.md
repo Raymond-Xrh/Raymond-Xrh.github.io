@@ -8,7 +8,7 @@ What I read, think, and reflect today.
 
 2025.3.1
 ===
-Plasticity = alertness + focus (visual focus 90s) + sleep. You will feel agitation and attention drift but the point is to pull it back. 
+Plasticity = alertness + focus (visual focus 90s) + sleep(NSDR). You will feel agitation and attention drift but the point is to pull it back. 
 
 2025.2.28
 ===
