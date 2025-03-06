@@ -8,7 +8,7 @@ tags:
 
 Inspired by Ray Dalio
 
-Identify reliable co-workers; consult with them before engaging with firm.
+Identify reliable co-workers; consult with them and exchange information before engaging with the firm.
 === 
 
 This might suck for me; but what does it mean to the nature/society?
