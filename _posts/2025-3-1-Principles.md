@@ -28,7 +28,7 @@ Life Principles
 - Knowledge, like DNA, get passed down on generations and impact the path of evolution
 - The world is littered with once-great things that deteriorated and failed. Check them out; figure out why
 
-
+### You are simultaneously everything, nothing, and to-be.
 
 Work Principles
 ===
