@@ -16,7 +16,8 @@ Life Principles
 - Nothing is inherently good/bad; reality happens for a reason
 
 ### This might suck for me; but what does it mean to the nature/society?
-I make negative judgements or feel frustrated to unfavorable events like "rainy days are bad", "corporate job sucks". These judgements presuppose my personal experience as the metric for a phenomenon in reality. It's natural to place a disproportionately high (probably 100% before you realize it) focus on personal metrics. That's why it's more urgent to proactivly think about how "bad" phenomenon means for the nature/society —— less contrained to my ego, more holistic view of reality
+- Would the world be a better or worse place if what I'd experienced hadn't occured?
+- Nature optimizes for the whole, not for the individual.
 
 
 
