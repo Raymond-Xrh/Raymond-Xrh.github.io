@@ -15,6 +15,9 @@ Life Principles
 - Problems recur over my life, across humans, and throughout history. The earlier you experiment with solutions the less you will suffer.
 - Nothing is inherently good/bad. Be realistic —— reality happens for a reason
 
+### Adapt through rapid trial and error
+- How?
+
 ### This might suck for me; but what does it mean to the nature/society?
 - Would the world be a better or worse place if what I'd experienced hadn't occured?
 - Nature optimizes for the whole, not for the individual.
@@ -24,6 +27,7 @@ Life Principles
 - Energy can't be destroyed —— it can only be reconfigured
 - Knowledge, like DNA, get passed down on generations and impact the path of evolution
 - The world is littered with once-great things that deteriorated and failed. Check them out; figure out why
+
 
 
 Work Principles
