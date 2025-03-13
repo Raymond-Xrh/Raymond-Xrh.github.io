@@ -18,7 +18,12 @@ Life Principles
 ### This might suck for me; but what does it mean to the nature/society?
 - Would the world be a better or worse place if what I'd experienced hadn't occured?
 - Nature optimizes for the whole, not for the individual.
+- Conflicts occur because ppl judge good and bad based only on how it affects them. E.g. religious conflict, and most of my emotional bursts.
 
+### Evolution is the ultimate, permanent driver of the universe.
+- Energy can't be destroyed —— it can only be reconfigured
+- Knowledge, like DNA, get passed down on generations and impact the path of evolution
+- The world is littered with once-great things that deteriorated and failed. Check them out; figure out why
 
 
 Work Principles
