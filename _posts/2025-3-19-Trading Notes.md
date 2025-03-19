@@ -26,4 +26,15 @@ If Trump isn't specific about tariffs, you could get a vicious rally. Recall in 
 2. Momentum: If I expect DAX to move up 400 points I would enter at 100. The edge is to digest news faster than large institutions, which takes 6h - 24h to position.
 
 ### How does 10% tariff affects bond market?
-- 10y or 30y bond are about where fed fund rate will be between now and the next 10 years. 
+When you think about 10y or 30y bond price, it is about
+- where fed fund rate will be between now and the next 10 years
+- uncertainty of growth and inflation => long-term bond duration risk, term premiums, etc.
+
+Long term bond would rally for a few reasons:
+- Though offset by a stronger USD, Tariff could cause a bump in import prices and short-term inflation. But this wouldn't affect long-term rates, thus no term premium
+- Tariff could slow down global trade/economy, making bond more valuable
+
+### D1 vs option
+- D1: risk of liquidity gap, i.e. stop loss at a worse price due to slippage. If you long USD/CAD but no tariff is announced, there would be few bids for you to stop loss.
+- Option: no stopped out, but pays time decay; need to get both time and direction right
+- Often implied vol anchors at realized vol. When realized has been low implied vol can be underpriced.
