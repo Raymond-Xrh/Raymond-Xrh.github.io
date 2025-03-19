@@ -21,6 +21,9 @@ Markets across option, fx, equity, bond consencus are not fully pricing in tarif
 If Trump isn't specific about tariffs, you could get a vicious rally. Recall in 2017 dollar collapsed 
 
 
-### Tariff trade - Make Scenarios + momentum
-1. Consider 3 scenarios: heavy tariff, targeted tariff, and no tariff. Estimate probability + magnitude/drawdown, and compare to market implied. Can trade base case or tail. 
-2. For 
+### Positioning + momentum
+1. Prepositioning: Consider 3 scenarios: heavy tariff, targeted tariff, and no tariff. Estimate probability + magnitude/drawdown, and compare to market implied. Trade base case or tail case. 
+2. Momentum: If I expect DAX to move up 400 points I would enter at 100. The edge is to digest news faster than large institutions, which takes 6h - 24h to position.
+
+### How does 10% tariff affects bond market?
+- 10y or 30y bond are about where fed fund rate will be between now and the next 10 years. 
