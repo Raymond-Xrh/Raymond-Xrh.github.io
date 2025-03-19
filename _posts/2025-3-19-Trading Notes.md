@@ -17,8 +17,10 @@ Markets across option, fx, equity, bond consencus are not fully pricing in tarif
 - A decent labor market report
 - PCE inflation at 2.3%, a friendly inflation number
 - A dovish Fed, with Waller hinting 3-4 cuts this year
-If Trump isn't specific about tariffs, you could get a vicious rally. 
+
+If Trump isn't specific about tariffs, you could get a vicious rally. Recall in 2017 dollar collapsed 
 
 
-
-
+### Tariff trade - Make Scenarios + momentum
+1. Consider 3 scenarios: heavy tariff, targeted tariff, and no tariff. Estimate probability + magnitude/drawdown, and compare to market implied. Can trade base case or tail. 
+2. For 
