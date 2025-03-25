@@ -33,4 +33,10 @@ Life Principles
 Work Principles
 ===
 
+### Think about worse case scenario
+- I tend to lack motivation to prepare for low EV and ignore their downside, e.g. I prepare for visa appointment in the last second. Reducing negative vol is just as important as gaining +EV.
+-	At least don't let slackness/tiredness affect my judgments twice. E.g. no more revealing risky information, rushing traffic lights
+- In work, not every conversation is an interview. But don't let your guard down before talking to managers. Collect information on their style. If they are grilly/sharp, prepare concise answer & focus on people side. 
+ 
+
 ### Identify reliable co-workers; consult with them and exchange information before engaging with the firm.
