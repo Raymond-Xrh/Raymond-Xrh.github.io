@@ -8,7 +8,15 @@ tags:
 
 Quick summary on miscellaneous trading podcasts/readings
 
-How To Trade Tariff Day by The Macro Trading Floor
+The Next Big Macro Trade 2025.2.21
+===
+
+### Bond and Dollar
+- Dollar position based on CFTC, CTA, and risk reversal is flat, compared to record long at the start of 2025. However, EUR/USD merely rose from 1.035 to 1.042. The massive change in positioning doesn't affect price much.
+- Tariff
+
+
+How To Trade Tariff Day by The Macro Trading Floor 2025.1.17
 ===
 
 ### Hook:
